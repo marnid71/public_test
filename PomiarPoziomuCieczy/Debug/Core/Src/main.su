@@ -1,0 +1,11 @@
+../Core/Src/main.c:91:10:MEAS_meas_cm	16	static
+../Core/Src/main.c:109:7:MEAS_calculateAsPercent	16	static
+../Core/Src/main.c:114:6:MEAS_measMaxDistance	8	static
+../Core/Src/main.c:119:6:MEAS_measMinDistance	8	static
+../Core/Src/main.c:124:6:MEAS_setMaxDistance	16	static
+../Core/Src/main.c:129:6:MEAS_setMinDistance	16	static
+../Core/Src/main.c:139:5:main	240	static
+../Core/Src/main.c:294:6:SystemClock_Config	96	static
+../Core/Src/main.c:345:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/main.c:360:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:378:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,11 @@
+../Core/Src/main.c:91:10:MEAS_meas_cm	4
+../Core/Src/main.c:109:7:MEAS_calculateAsPercent	1
+../Core/Src/main.c:114:6:MEAS_measMaxDistance	1
+../Core/Src/main.c:119:6:MEAS_measMinDistance	1
+../Core/Src/main.c:124:6:MEAS_setMaxDistance	1
+../Core/Src/main.c:129:6:MEAS_setMinDistance	1
+../Core/Src/main.c:139:5:main	13
+../Core/Src/main.c:294:6:SystemClock_Config	4
+../Core/Src/main.c:345:6:HAL_UART_TxCpltCallback	3
+../Core/Src/main.c:360:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:378:6:Error_Handler	1
