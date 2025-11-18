@@ -43,7 +43,7 @@ uint8_t  LoRaBufRX;
 uint8_t  LoRaBufLongRX[5000];
 uint16_t LoRaBufPosRX;
 
-uint8_t test_GIT;
+uint8_t test_GIT = 1;
 
 uint8_t turnOffUART_flag = 0;
 
